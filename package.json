@@ -1,6 +1,6 @@
 {
   "name": "react-flex-pixel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " auto changeable pixel by screen size  ",
   "main": "index.js",
   "scripts": {
