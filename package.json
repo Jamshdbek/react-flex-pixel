@@ -1,0 +1,26 @@
+{
+  "name": "react-flex-pixel",
+  "version": "1.0.0",
+  "description": " auto changeable pixel by screen size  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamshdbek/react-flex-pixel.git"
+  },
+  "keywords": [
+    "flex",
+    "pixel",
+    "responsive",
+    "design",
+    "react-flex-pixel"
+  ],
+  "author": "Jamesibro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamshdbek/react-flex-pixel/issues"
+  },
+  "homepage": "https://github.com/Jamshdbek/react-flex-pixel#readme"
+}
