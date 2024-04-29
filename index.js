@@ -1,7 +1,5 @@
 //index.js
-
-function helloNpm() {
-  return "Test NPM";
-}
-
-module.exports = helloNpm;
+// change and pushing +_+_+_+
+// npm version patch
+// npm publish
+//  npm run build
