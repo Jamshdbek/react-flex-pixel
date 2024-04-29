@@ -8,6 +8,9 @@ test/typescript/axios.js*
 sauce_connect.log
 test/module/**/package-lock.json
 backup/
+/dist
+tsconfig.json
+tsup.config.ts
 /.husky/
 .npmrc
 .env
