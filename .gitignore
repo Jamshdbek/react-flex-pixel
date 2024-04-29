@@ -14,3 +14,4 @@ tsup.config.ts
 /.husky/
 .npmrc
 .env
+text.md
